@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moksleivis\\source\\repos\\paskaita 1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Moksleivis\\Desktop\\NaujasAplankas\\GIT10.07\\PirmaPamoka\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Moksleivis\\source\\repos\\paskaita 1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Moksleivis\\Desktop\\NaujasAplankas\\GIT10.07\\PirmaPamoka\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Moksleivis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moksleivis\\source\\repos\\paskaita 1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Moksleivis\\Desktop\\NaujasAplankas\\GIT10.07\\PirmaPamoka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

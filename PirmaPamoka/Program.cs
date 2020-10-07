@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
+            //Prirasytas tekstas del paketimu i github siust
 
             static void add(){
                 Console.WriteLine("Enter the first number: ");
